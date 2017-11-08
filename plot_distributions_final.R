@@ -1,6 +1,6 @@
 #plot_distributions
 #load distributions
-source("distributions.R")
+source("distributions_final.R")
 require("ggplot2")
 
 #set range
