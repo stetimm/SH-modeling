@@ -2,7 +2,7 @@
 require(ggplot2)
 
 #load probability distributions
-source("distributions.R")
+source("distributions_final.R")
 
 #calculations
 calculate = function(c, beta, tau, p, theta_h, theta_l){
